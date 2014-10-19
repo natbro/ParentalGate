@@ -1,0 +1,20 @@
+/* 
+  ITParentalGate.strings (UK English)
+ 
+  Created by @natbro on 2/23/14.
+*/
+
+"kParentalGateTop" = "PARENTS";
+"kParentalGateBottom" = "ONLY";
+"kParentalGateInstructions0101" = "To Continue, Swipe One Finger To The Right.";
+"kParentalGateInstructions0102" = "To Continue, Swipe One Finger To The left.";
+"kParentalGateInstructions0104" = "To Continue, Swipe One Finger Up.";
+"kParentalGateInstructions0108" = "To Continue, Swipe One Finger Down.";
+"kParentalGateInstructions0201" = "To Continue, Swipe Two Fingers To The Right.";
+"kParentalGateInstructions0202" = "To Continue, Swipe Two Fingers To The Left.";
+"kParentalGateInstructions0204" = "To Continue, Swipe Two Fingers Up.";
+"kParentalGateInstructions0208" = "To Continue, Swipe Two Fingers Down.";
+"kParentalGateInstructions0301" = "To Continue, Swipe Three\nFingers To The Right.";
+"kParentalGateInstructions0302" = "To Continue, Swipe Three\nFingers To The Left.";
+"kParentalGateInstructions0304" = "To Continue, Swipe Three\nFingers Up.";
+"kParentalGateInstructions0308" = "To Continue, Swipe Three\nFingers Down.";

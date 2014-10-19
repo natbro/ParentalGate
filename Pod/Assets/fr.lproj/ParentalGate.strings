@@ -1,0 +1,20 @@
+/* 
+  ParentalGate.strings (French)
+
+  Created by @natbro on 2/23/14.
+*/
+
+"kParentalGateTop" = "PARENTS";
+"kParentalGateBottom" = "SEULEMENT";
+"kParentalGateInstructions0101" = "Pour continuer, glisser un doigt vers la droite";
+"kParentalGateInstructions0102" = "Pour continuer, glisser un doigt vers la gauche";
+"kParentalGateInstructions0104" = "Pour continuer, glisser un doigt vers le haut";
+"kParentalGateInstructions0108" = "Pour continuer, glisser un doigt vers le bas";
+"kParentalGateInstructions0201" = "Pour continuer, faites glisser deux doigts vers la droite";
+"kParentalGateInstructions0202" = "Pour continuer, faites glisser deux doigts vers la gauche";
+"kParentalGateInstructions0204" = "Pour continuer, faites glisser deux doigts vers le haut";
+"kParentalGateInstructions0208" = "Pour continuer, faites glisser deux doigts vers le bas";
+"kParentalGateInstructions0301" = "Pour continuer, faites glisser trois doigts vers la droite";
+"kParentalGateInstructions0302" = "Pour continuer, faites glisser trois doigts vers la gauche";
+"kParentalGateInstructions0304" = "Pour continuer, faites glisser trois doigts vers le haut";
+"kParentalGateInstructions0308" = "Pour continuer, faites glisser trois doigts vers le bas";

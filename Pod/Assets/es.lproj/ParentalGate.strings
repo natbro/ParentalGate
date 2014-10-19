@@ -1,0 +1,20 @@
+/* 
+  ParentalGate.strings (Spanish)
+ 
+  Created by @natbro on 2/23/14.
+*/
+
+"kParentalGateTop" = "PADRES";
+"kParentalGateBottom" = "SÓLO";
+"kParentalGateInstructions0101" = "Para continuar, deslizar un dedo hacia la derecha";
+"kParentalGateInstructions0102" = "Para continuar, toque con un dedo a la izquierda ";
+"kParentalGateInstructions0104" = "Para continuar, toque con un dedo para arriba";
+"kParentalGateInstructions0108" = "Para continuar, deslizar un dedo hacia abajo ";
+"kParentalGateInstructions0201" = "Para continuar, toque con dos dedos hacia la derecha";
+"kParentalGateInstructions0202" = "Para continuar, toque con dos dedos a la izquierda";
+"kParentalGateInstructions0204" = "Para continuar, toque con dos dedos hacia arriba";
+"kParentalGateInstructions0208" = "Para continuar, toque con dos dedos hacia abajo";
+"kParentalGateInstructions0301" = "Para continuar, toque con tres dedos a la derecha";
+"kParentalGateInstructions0302" = "Para continuar, toque con tres dedos a la izquierda";
+"kParentalGateInstructions0304" = "Para continuar, toque con tres dedos hacia arriba";
+"kParentalGateInstructions0308" = "Para continuar, toque con tres dedos hacia abajo";

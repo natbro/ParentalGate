@@ -1,0 +1,20 @@
+/* 
+  ITParentalGate.strings (Chinese)
+ 
+  Created by @natbro on 2/23/14.
+*/
+
+"kParentalGateTop" = "父母";
+"kParentalGateBottom" = "只";
+"kParentalGateInstructions0101" = "要继续，滑动一个手指向右";
+"kParentalGateInstructions0102" = "要继续，滑动一个手指向左";
+"kParentalGateInstructions0104" = "要继续，滑动一个手指向上";
+"kParentalGateInstructions0108" = "要继续，滑动一个手指向下 ";
+"kParentalGateInstructions0201" = "要继续，轻扫两个手指向右";
+"kParentalGateInstructions0202" = "要继续，轻扫两个手指向左";
+"kParentalGateInstructions0204" = "要继续，滑动两根手指";
+"kParentalGateInstructions0208" = "要继续，轻扫两个手指";
+"kParentalGateInstructions0301" = "要继续，刷卡三根手指向右";
+"kParentalGateInstructions0302" = "要继续，轻扫三个手指向左";
+"kParentalGateInstructions0304" = "要继续，轻扫三个手指向上";
+"kParentalGateInstructions0308" = "要继续，轻扫三根手指向下";

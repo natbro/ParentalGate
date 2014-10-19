@@ -3,7 +3,7 @@
 //  ParentalGate
 //
 //  Created by CocoaPods on 10/18/2014.
-//  Copyright (c) 2014 Nat Brown. All rights reserved.
+//  Copyright (c) 2014 @natbro. All rights reserved.
 //
 
 #import "NBAppDelegate.h"
