@@ -12,9 +12,9 @@ The `ParentalGate` class is a simple, UI-modal `UIAlertView`-like drop-in parent
 
 The class works on all iPhones, iPods, and iPads as far back as iOS 4.3 if you are so inclined. It handles all portrait, landscape, and upside-down orientations as well as orientation changes on the fly.
 ****
-->![Parental Gate Example](https://github.com/natbro/ParentalGate/releases/download/0.1.0/demo.gif)<-
+![Parental Gate Example](https://raw.githubusercontent.com/natbro/images/master/ParentalGate/demo.gif)
  
--> the included demonstration/test application <-
+the included demonstration/test application
 ****
 The UI presentation is a fairly universal _Do Not Enter_ symbol, and the application comes with localizations to English, Spanish, French, and Chinese. Please feel free to submit pull-requests for additional localizations if you make them (be sure to test that your text fits in the _Do Not Enter_ sign properly).
 

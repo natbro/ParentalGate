@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ParentalGate"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "An iOS \"Parental Gate\" for restricting childrens' access to app features."
   s.description      = <<-DESC
 iOS applications made for young children, especially those in the 'Kids Section' of the App Store, are required to have a [Parental Gate](https://developer.apple.com/app-store/parental-gates/) limiting the ability for children to inadvertently access settings, follow links to potentially unsafe web-content, or make in-app or other purchases.
@@ -15,7 +15,7 @@ The class works on all iPhones, iPods, and iPads as far back as iOS 4.3 if you a
 The UI presentation is a fairly universal _Do Not Enter_ symbol, and the application comes with localizations to English, Spanish, French, and Chinese.
                        DESC
   s.homepage         = "https://github.com/natbro/ParentalGate"
-  s.screenshots      = ["https://github.com/natbro/ParentalGate/releases/download/0.1.0/english.png", "https://github.com/natbro/ParentalGate/releases/download/0.1.0/french.png", "https://github.com/natbro/ParentalGate/releases/download/0.1.0/demo.gif" ]
+  s.screenshots      = ["https://raw.githubusercontent.com/natbro/images/master/ParentalGate/english.png", "https://raw.githubusercontent.com/natbro/images/master/ParentalGate/french.png", "https://raw.githubusercontent.com/natbro/images/master/ParentalGate/demo.gif"]
   s.license          = 'MIT'
   s.author           = { "Nat Brown" => "natbro@gmail.com" }
   s.source           = { :git => "https://github.com/natbro/ParentalGate.git", :tag => s.version.to_s }
