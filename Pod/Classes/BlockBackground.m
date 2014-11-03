@@ -82,6 +82,20 @@ CG_INLINE CGRect CGRectIntegralCenteredInRect(CGRect innerRect, CGRect outerRect
 {
   // make our frame big enough to cover screens at any orientation, in order to handle rotation events
   CGRect screenBounds = [[UIScreen mainScreen] bounds];
+  
+  // https://github.com/natbro/ParentalGate/issues/1
+  // orientation-detection code assumes that the initial screen bounds are portait - adjust if this
+  // is a portait-only app or if initial gate comes up first in portrait mode
+  UIDeviceOrientation orientation = [[UIDevice currentDevice] orientation];
+  if (orientation == UIDeviceOrientationUnknown) {
+    orientation = (UIDeviceOrientation)[UIApplication sharedApplication].statusBarOrientation;
+  }
+  if (UIDeviceOrientationIsLandscape(orientation)) {
+    CGFloat t = screenBounds.size.height;
+    screenBounds.size.height = screenBounds.size.width;
+    screenBounds.size.width = t;
+  }
+  
   CGRect bigFrame = screenBounds;
   if (bigFrame.size.height > bigFrame.size.width) {
     bigFrame.size.width = bigFrame.size.height;

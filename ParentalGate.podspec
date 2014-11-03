@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ParentalGate"
-  s.version          = "0.1.1"
+  s.version          = "0.1.2"
   s.summary          = "An iOS \"Parental Gate\" for restricting childrens' access to app features."
   s.description      = <<-DESC
 iOS applications made for young children, especially those in the 'Kids Section' of the App Store, are required to have a [Parental Gate](https://developer.apple.com/app-store/parental-gates/) limiting the ability for children to inadvertently access settings, follow links to potentially unsafe web-content, or make in-app or other purchases.
